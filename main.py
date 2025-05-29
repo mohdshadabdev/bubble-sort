@@ -9,3 +9,4 @@ def bubble_sort(arr):
 arr = [5, 2, 9, 1, 5, 6]
 bubble_sort(arr)
 print("Sorted array:", arr)
+print("Array is sorted successfully")
